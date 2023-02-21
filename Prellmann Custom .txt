@@ -245,6 +245,11 @@ dimwishlist:item=3055790362&perks=3250034553,1885400500,699525795,509594246
 dimwishlist:item=3055790362&perks=3250034553,1885400500,699525795,2846385770
 
 
+// Exalted Truth (pvp,pve,god-pvp)
+//notes: tags:pvp,pve,god-pvp
+dimwishlist:item=3102421004&perks=3661387068,3142289711,2846385770,699525795,2988596335
+
+
 // Chain of Command (pve)
 //notes: tags:pve
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417
@@ -266,6 +271,12 @@ dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692,39
 // Silicon Neuroma (pvp,pve,god-pvp)
 //notes: tags:pvp,pve,god-pvp
 dimwishlist:item=3355385170&perks=839105230,2420895100,957782887,47981717,1281216113
+
+
+// Stormchaser (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=3652506829&perks=839105230,1687452232,2284787283,1771339417,4154828211
+dimwishlist:item=3652506829&perks=839105230,1687452232,247725512,1771339417,4154828211
 
 
 // Roar of the Bear (pve,god-pve,pvp)
