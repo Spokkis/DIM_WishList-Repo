@@ -1,7 +1,7 @@
 title:Prellmann Custom
 description:Wanted godrolls to be ^_^
 
-// Annual Skate - Annual Skate (pvp) (pvp)
+// Annual Skate - Annual Skate (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=6857689&perks=1926090090,1087426260,3436462433,47981717
 dimwishlist:item=6857689&perks=1926090090,1087426260,3436462433,1954620775
@@ -29,11 +29,11 @@ dimwishlist:item=6857689&perks=1926090092,3142289711,3161816588,47981717
 dimwishlist:item=6857689&perks=1926090092,3142289711,3161816588,1954620775
 
 
-// Long Arm - Long Arm (god-pve,god-pvp) ()
+// Long Arm - Long Arm (god-pve,god-pvp)
 dimwishlist:item=8293111&perks=839105230,3142289711,247725512,3038247973
 
 
-// Long Arm - Long Arm (pve,pvp) (pve,pvp)
+// Long Arm - Long Arm (pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=8293111&perks=4090651448,1087426260,247725512,2848615171
 dimwishlist:item=8293111&perks=4090651448,1087426260,247725512,3038247973
@@ -61,7 +61,7 @@ dimwishlist:item=8293111&perks=839105230,3142289711,1820235745,2848615171
 dimwishlist:item=8293111&perks=839105230,3142289711,1820235745,3038247973
 
 
-// Riiswalker - Riiswalker (pvp,god-pvp) (pvp)
+// Riiswalker - Riiswalker (pvp,god-pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
 
@@ -78,7 +78,7 @@ dimwishlist:item=177568179&perks=1359896290,365154968,2250679103,2302094943
 dimwishlist:item=177568179&perks=1359896290,365154968,2250679103,38912240
 
 
-// Eyasluna - Eyasluna (god-pvp,pvp,pve) (pvp,pve)
+// Eyasluna - Eyasluna (god-pvp,pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=235827225&perks=1926090091,1885400500,247725512,1015611457
 dimwishlist:item=235827225&perks=1926090091,1885400500,2846385770,1015611457
@@ -90,7 +90,7 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,247725512,1015611457
 dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,1015611457
 
 
-// The Title - The Title (god-pve,pve,pvp) (pve,pvp)
+// The Title - The Title (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=294129361&perks=4090651448,1885400500,1359896290,4082225868,1702976605,905869860
 dimwishlist:item=294129361&perks=4090651448,1885400500,1359896290,4082225868,1702976605,3244015567
@@ -98,7 +98,7 @@ dimwishlist:item=294129361&perks=4090651448,1885400500,1359896290,4082225868,160
 dimwishlist:item=294129361&perks=4090651448,1885400500,1359896290,4082225868,1607056502,3244015567
 
 
-// Ignition Code - Ignition Code (god-pve) ()
+// Ignition Code - Ignition Code (god-pve)
 dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,1546637391
 dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,1546637391
@@ -109,16 +109,16 @@ dimwishlist:item=304659313&perks=1478423395,3032599245,3161816588,1546637391
 dimwishlist:item=304659313&perks=1478423395,3032599245,2010801679,1546637391
 
 
-// Survivor's Epitaph - Survivor's Epitaph (god-pvp) ()
+// Survivor's Epitaph - Survivor's Epitaph (god-pvp)
 dimwishlist:item=310708513&perks=3250034553,1885400500,247725512,1015611457
 
 
-// Survivor's Epitaph - Survivor's Epitaph (pvp) (pvp)
+// Survivor's Epitaph - Survivor's Epitaph (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=310708513&perks=3250034553,1087426260,247725512,1015611457
 
 
-// Waking Vigil - Waking Vigil (god-pvp,pvp) (pvp)
+// Waking Vigil - Waking Vigil (god-pvp,pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=334171687&perks=1926090091,1885400500,247725512,1015611457
 dimwishlist:item=334171687&perks=1926090091,1885400500,247725512,47981717
@@ -138,7 +138,7 @@ dimwishlist:item=355922321&perks=839105230,3142289711,776531651,2048641572,93069
 dimwishlist:item=355922321&perks=776531651,2048641572,930692523
 
 
-// Cantata-57 - Cantata-57 (pve,pvp,god-pvp) (pve,pvp)
+// Cantata-57 - Cantata-57 (pve,pvp,god-pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=372697604&perks=4090651448,3142289711,247725512,1954620775
 
@@ -155,7 +155,7 @@ dimwishlist:item=413901114&perks=2284787283,776531651,2250679103,2240097604
 dimwishlist:item=413901114&perks=2284787283,776531651,2250679103,2285636663
 
 
-// Zaouli's Bane - Zaouli's Bane (god-pve,pve,pvp) (pve,pvp)
+// Zaouli's Bane - Zaouli's Bane (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=431721920&perks=839105230,3142289711,64866129,4293542123
 dimwishlist:item=431721920&perks=839105230,3142289711,64866129,2675184851
@@ -163,11 +163,11 @@ dimwishlist:item=431721920&perks=839105230,3142289711,3038247973,4293542123
 dimwishlist:item=431721920&perks=839105230,3142289711,3038247973,2675184851
 
 
-// The Palindrome - The Palindrome (god-pvp) ()
+// The Palindrome - The Palindrome (god-pvp)
 dimwishlist:item=432476743&perks=839105230,1885400500,2450788523,2846385770
 
 
-// The Palindrome - The Palindrome (pvp) (pvp)
+// The Palindrome - The Palindrome (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=432476743&perks=202670084,1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=202670084,1885400500,2450788523,2213355989
@@ -183,7 +183,7 @@ dimwishlist:item=432476743&perks=839105230,1885400500,706527188,2213355989
 dimwishlist:item=432476743&perks=839105230,1885400500,706527188,3425386926
 
 
-// The Last Breath - The Last Breath (pve,pvp,god-pvp) (pve,pvp)
+// The Last Breath - The Last Breath (pve,pvp,god-pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=507038823&perks=3250034553,1885400500,1359896290,2846385770
 dimwishlist:item=507038823&perks=3250034553,1885400500,2450788523,2846385770
@@ -191,26 +191,26 @@ dimwishlist:item=507038823&perks=202670084,1885400500,1359896290,2846385770
 dimwishlist:item=507038823&perks=202670084,1885400500,2450788523,2846385770
 
 
-// Scathelocke - Scathelocke (pve,god-pve,pvp) (pve,pvp)
+// Scathelocke - Scathelocke (pve,god-pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=602618796&perks=4090651448,3142289711,1820235745,3425386926
 
 
-// Falling Guillotine - Falling Guillotine (god-pve) ()
+// Falling Guillotine - Falling Guillotine (god-pve)
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
 
 
-// Cry Mutiny - Cry Mutiny (pve) (pve)
+// Cry Mutiny - Cry Mutiny (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=616582330&perks=1478423395,332133599,4293542123,1546637391
 
 
-// Nation of Beasts - Nation of Beasts (pvp,pve) (pvp,pve)
+// Nation of Beasts - Nation of Beasts (pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171
 
 
-// Nation of Beasts - Nation of Beasts (pvp) (pvp)
+// Nation of Beasts - Nation of Beasts (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,1015611457
 dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
@@ -220,21 +220,21 @@ dimwishlist:item=654370424&perks=202670084,3142289711,47981717,3038247973
 dimwishlist:item=654370424&perks=202670084,3142289711,47981717,3425386926
 
 
-// Undercurrent (Adept) (god-pve)
+// Undercurrent (Adept)(god-pve)
 //notes: tags:god-pve
 dimwishlist:item=672957262&perks=3809316345,2822142346,3523296417,2173046394,1281216113
 
 
-// Undercurrent (Adept) (pve)
+// Undercurrent (Adept)(pve)
 //notes: tags:pve
 dimwishlist:item=672957262&perks=3523296417,2173046394,1281216113
 
 
-// Arsenic Bite-4b - Arsenic Bite-4b (god-pve) ()
+// Arsenic Bite-4b - Arsenic Bite-4b (god-pve)
 dimwishlist:item=720351795&perks=852209214,16392701,3425386926,3365897133
 
 
-// Arsenic Bite-4b - Arsenic Bite-4b (pve) (pve)
+// Arsenic Bite-4b - Arsenic Bite-4b (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=720351795&perks=852209214,16392701,3425386926,3365897133
 dimwishlist:item=720351795&perks=852209214,16392701,3425386926,201365942
@@ -242,7 +242,7 @@ dimwishlist:item=720351795&perks=852209214,16392701,201365942,3365897133
 dimwishlist:item=720351795&perks=852209214,16392701,201365942,201365942
 
 
-// Planck's Stride - Planck's Stride (god-pve,pve,pvp) (pve,pvp)
+// Planck's Stride - Planck's Stride (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=820890091&perks=839105230,3142289711,1428297954,1523649716
 dimwishlist:item=820890091&perks=839105230,3142289711,1428297954,1890422124
@@ -265,16 +265,16 @@ dimwishlist:item=871900124&perks=1332244541,791862061,776531651,2679249093,93069
 dimwishlist:item=871900124&perks=706527188,2679249093,930692523
 
 
-// Rose - Rose (god-pvp,pvp,pve) (pvp,pve)
+// Rose - Rose (god-pvp,pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,2846385770
 
 
-// Aurvandil FR6 - Aurvandil FR6 (god-pve) ()
+// Aurvandil FR6 - Aurvandil FR6 (god-pve)
 dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579
 
 
-// Aurvandil FR6 - Aurvandil FR6 (pve) (pve)
+// Aurvandil FR6 - Aurvandil FR6 (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=963710795&perks=839105230,1687452232,1523832109,2978966579
 dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579
@@ -309,11 +309,11 @@ dimwishlist:item=1028124540&perks=3250034553,1087426260,2779035018,2048641572,40
 dimwishlist:item=1028124540&perks=3250034553,1087426260,2779035018,2048641572,4008116374,3244015567
 
 
-// Bottom Dollar - Bottom Dollar (god-pvp) ()
+// Bottom Dollar - Bottom Dollar (god-pvp)
 dimwishlist:item=1046651176&perks=202670084,3142289711,2846385770,3038247973
 
 
-// Bottom Dollar - Bottom Dollar (pvp) (pvp)
+// Bottom Dollar - Bottom Dollar (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1046651176&perks=4090651448,1561002382,247725512,3038247973
 dimwishlist:item=1046651176&perks=4090651448,1561002382,247725512,47981717
@@ -353,12 +353,12 @@ dimwishlist:item=1046651176&perks=839105230,3142289711,2450788523,3038247973
 dimwishlist:item=1046651176&perks=839105230,3142289711,2450788523,47981717
 
 
-// Forge's Pledge - Forge's Pledge (pvp,pve) (pvp,pve)
+// Forge's Pledge - Forge's Pledge (pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926
 
 
-// Forge's Pledge - Forge's Pledge (pvp) (pvp)
+// Forge's Pledge - Forge's Pledge (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1076810832&perks=4090651448,1087426260,3436462433,3108830275
 dimwishlist:item=1076810832&perks=4090651448,1087426260,3436462433,3425386926
@@ -426,11 +426,11 @@ dimwishlist:item=1076810832&perks=839105230,3142289711,2387244414,3108830275
 dimwishlist:item=1076810832&perks=839105230,3142289711,2387244414,3425386926
 
 
-// Frontier's Cry - Frontier's Cry (god-pvp) ()
+// Frontier's Cry - Frontier's Cry (god-pvp)
 dimwishlist:item=1141547457&perks=839105230,3142289711,247725512,1015611457
 
 
-// Frontier's Cry - Frontier's Cry (pvp) (pvp)
+// Frontier's Cry - Frontier's Cry (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1141547457&perks=4090651448,1087426260,247725512,1015611457
 dimwishlist:item=1141547457&perks=4090651448,1087426260,247725512,699525795
@@ -482,7 +482,7 @@ dimwishlist:item=1141547457&perks=839105230,3142289711,1583705720,699525795
 dimwishlist:item=1141547457&perks=839105230,3142289711,1583705720,591790007
 
 
-// Yesteryear - Yesteryear (pve,pvp,god-pve) (pve,pvp)
+// Yesteryear - Yesteryear (pve,pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1141927949&perks=839105230,1885400500,1168162263,3047969693
 
@@ -497,11 +497,11 @@ dimwishlist:item=1151688091&perks=3809316345,2822142346,3523296417,2173046394,12
 dimwishlist:item=1151688091&perks=3523296417,2173046394,1281216113
 
 
-// Cold Denial - Cold Denial (god-pvp) ()
+// Cold Denial - Cold Denial (god-pvp)
 dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,699525795
 
 
-// Cold Denial - Cold Denial (pvp,pve) (pvp,pve)
+// Cold Denial - Cold Denial (pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,2458213969
 dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,699525795
@@ -521,7 +521,7 @@ dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,2458213969
 dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,699525795
 
 
-// Fatebringer (Timelost) - Fatebringer (Timelost) (pvp,pve,god-pve) (pvp,pve)
+// Fatebringer (Timelost)- Fatebringer (Timelost)(pvp,pve,god-pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=1216319404&perks=3250034553,1087426260,3038247973,3824105627,2302094943
 dimwishlist:item=1216319404&perks=3250034553,1087426260,3038247973,3824105627,38912240
@@ -533,7 +533,7 @@ dimwishlist:item=1216319404&perks=839105230,3142289711,3038247973,3824105627,230
 dimwishlist:item=1216319404&perks=839105230,3142289711,3038247973,3824105627,38912240
 
 
-// Brigand's Law - Brigand's Law (pve,god-pve,pvp) (pve,pvp)
+// Brigand's Law - Brigand's Law (pve,god-pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1298815317&perks=1467527085,3142289711,2779035018,2173046394
 dimwishlist:item=1298815317&perks=1467527085,3142289711,2779035018,1720528630
@@ -541,7 +541,7 @@ dimwishlist:item=1298815317&perks=1467527085,3142289711,1171147302,2173046394
 dimwishlist:item=1298815317&perks=1467527085,3142289711,1171147302,1720528630
 
 
-// Silicon Neuroma (Adept) - Silicon Neuroma (Adept) (pvp,god-pvp,pve) (pvp,pve)
+// Silicon Neuroma (Adept)- Silicon Neuroma (Adept)(pvp,god-pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=1387987271&perks=839105230,1885400500,957782887,47981717
 
@@ -596,11 +596,11 @@ dimwishlist:item=1401300690&perks=839105230,3142289711,588594999,957782887,29885
 dimwishlist:item=1401300690&perks=588594999,957782887,2988596335
 
 
-// The Palindrome (Adept) - The Palindrome (Adept) (god-pvp) ()
+// The Palindrome (Adept)- The Palindrome (Adept)(god-pvp)
 dimwishlist:item=1481892490&perks=3250034553,1885400500,706527188,2846385770
 
 
-// The Palindrome (Adept) - The Palindrome (Adept) (pvp) (pvp)
+// The Palindrome (Adept)- The Palindrome (Adept)(pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2846385770
 dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,3108830275
@@ -628,7 +628,7 @@ dimwishlist:item=1481892490&perks=1392496348,1561002382,706527188,2846385770
 dimwishlist:item=1481892490&perks=1392496348,1561002382,706527188,3108830275
 
 
-// Blood Feud - Blood Feud (pve,god-pve) (pve)
+// Blood Feud - Blood Feud (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=1509167284&perks=839105230,3142289711,3797647183,3007133316
 dimwishlist:item=1509167284&perks=839105230,3142289711,3797647183,4104185692
@@ -636,16 +636,16 @@ dimwishlist:item=1509167284&perks=839105230,3142289711,2010801679,3007133316
 dimwishlist:item=1509167284&perks=839105230,3142289711,2010801679,4104185692
 
 
-// Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (pve) (pve)
+// Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=1555959830&perks=839105230,1140096971,1523832109,1546637391
 
 
-// Gridskipper - Gridskipper (god-pvp) ()
+// Gridskipper - Gridskipper (god-pvp)
 dimwishlist:item=1621558458&perks=4090651448,1885400500,588594999,2213355989
 
 
-// Gridskipper - Gridskipper (pvp) (pvp)
+// Gridskipper - Gridskipper (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1621558458&perks=4090651448,1885400500,1570042021,2213355989
 dimwishlist:item=1621558458&perks=4090651448,1885400500,588594999,2213355989
@@ -661,12 +661,12 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2213355989
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,2213355989
 
 
-// Vulpecula - Vulpecula - Semigodroll (god-pvp) ()
+// Vulpecula - Vulpecula - Semigodroll (god-pvp)
 //notes: A good roll from time to time, some people hate it
 dimwishlist:item=1622998472&perks=1482024992,3230963543,2450788523,47981717
 
 
-// Vulpecula - Vulpecula (pvp) (pvp)
+// Vulpecula - Vulpecula (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1622998472&perks=1482024992,3142289711,2450788523,3038247973
 dimwishlist:item=1622998472&perks=1482024992,3142289711,2450788523,47981717
@@ -694,26 +694,26 @@ dimwishlist:item=1764868900&perks=466087222,3142289711,3161816588,591790007,3989
 dimwishlist:item=1764868900&perks=3161816588,591790007,3989629871
 
 
-// New Purpose - New Purpose (pve,pvp,god-pvp,god-pve) (pve,pvp)
+// New Purpose - New Purpose (pve,pvp,god-pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1780464822&perks=839105230,1885400500,1428297954,3047969693
 
 
-// Herod-C - Herod-C (pve,pvp,god-pve) (pve,pvp)
+// Herod-C - Herod-C (pve,pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1788603939&perks=839105230,1885400500,1820235745,4104185692
 
 
-// Razor's Edge - Razor's Edge (pve,god-pve) (pve)
+// Razor's Edge - Razor's Edge (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=1796949035&perks=436053704,52780822,1749209109,2396489472
 
 
-// Nature of the Beast - Nature of the Beast (god-pvp) ()
+// Nature of the Beast - Nature of the Beast (god-pvp)
 dimwishlist:item=1835747805&perks=1926090095,3142289711,957782887,2846385770
 
 
-// Nature of the Beast - Nature of the Beast (pvp) (pvp)
+// Nature of the Beast - Nature of the Beast (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1835747805&perks=1926090090,106909392,706527188,2846385770
 dimwishlist:item=1835747805&perks=1926090090,106909392,706527188,2213355989
@@ -751,24 +751,24 @@ dimwishlist:item=1854753404&perks=3300816228,3194351027,2839173408,2240097604
 dimwishlist:item=1854753404&perks=3300816228,3194351027,2839173408,2285636663
 
 
-// Something New - Something New (pve,god-pve) (pve)
+// Something New - Something New (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=1856262127&perks=839105230,1885400500,2779035018,124408337
 
 
-// Something New - Something New (pve) (pve)
+// Something New - Something New (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,3523296417
 
 
-// The Summoner - The Summoner (god-pvp,pvp) (pvp)
+// The Summoner - The Summoner (god-pvp,pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1907698332&perks=4090651448,1885400500,1359896290,2846385770
 dimwishlist:item=1907698332&perks=1482024992,1885400500,1359896290,2846385770
 dimwishlist:item=1907698332&perks=839105230,1885400500,1359896290,2846385770
 
 
-// The Summoner - The Summoner (pvp) (pvp)
+// The Summoner - The Summoner (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=1907698332&perks=3250034553,1885400500,1428297954,2846385770
 dimwishlist:item=1907698332&perks=3250034553,1885400500,1428297954,3425386926
@@ -820,7 +820,7 @@ dimwishlist:item=1907698332&perks=839105230,1561002382,588594999,2846385770
 dimwishlist:item=1907698332&perks=839105230,1561002382,588594999,3425386926
 
 
-// Taipan-4fr - Taipan-4fr (god-pve,pve,pvp) (pve,pvp)
+// Taipan-4fr - Taipan-4fr (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,1771339417
 dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,395388285
@@ -828,7 +828,7 @@ dimwishlist:item=1911060537&perks=839105230,2680121939,573122728,1771339417
 dimwishlist:item=1911060537&perks=839105230,2680121939,573122728,395388285
 
 
-// Doom of Chelchis - Doom of Chelchis (god-pve,pve,pvp) (pve,pvp)
+// Doom of Chelchis - Doom of Chelchis (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1937552980&perks=839105230,3142289711,64866129,169755979
 dimwishlist:item=1937552980&perks=839105230,3142289711,64866129,2848615171
@@ -848,7 +848,7 @@ dimwishlist:item=1973107014&perks=3619207468,699525795,2988596335,905869860
 dimwishlist:item=1973107014&perks=3619207468,699525795,2988596335,3244015567
 
 
-// Lingering Dread - Lingering Dread (god-pve,pve,pvp) (pve,pvp)
+// Lingering Dread - Lingering Dread (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579
 
@@ -863,17 +863,17 @@ dimwishlist:item=2026755633&perks=839105230,1885400500,1820235745,95528736,51570
 dimwishlist:item=2026755633&perks=1820235745,95528736,515704826
 
 
-// Eye of Sol (Adept) (god-pvp)
+// Eye of Sol (Adept)(god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2059255495&perks=1840239774,3142289711,588594999,957782887,2988596335
 
 
-// Eye of Sol (Adept) (pvp)
+// Eye of Sol (Adept)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2059255495&perks=588594999,957782887,2988596335
 
 
-// Ammit AR2 - Ammit AR2 (god-pve,pve,pvp) (pve,pvp)
+// Ammit AR2 - Ammit AR2 (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2119346509&perks=839105230,1885400500,1359896290,4293542123
 dimwishlist:item=2119346509&perks=839105230,1885400500,1359896290,2675184851
@@ -891,7 +891,7 @@ dimwishlist:item=2189073092&perks=3661387068,1885400500,923806249,365154968,3989
 dimwishlist:item=2189073092&perks=923806249,365154968,3989629871
 
 
-// Fixed Odds - Fixed Odds (god-pve,pve) (pve)
+// Fixed Odds - Fixed Odds (god-pve,pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2194955522&perks=839105230,3142289711,2779035018,4293542123
 dimwishlist:item=2194955522&perks=839105230,3142289711,2779035018,2675184851
@@ -899,7 +899,7 @@ dimwishlist:item=2194955522&perks=839105230,3142289711,1171147302,4293542123
 dimwishlist:item=2194955522&perks=839105230,3142289711,1171147302,2675184851
 
 
-// Tarnished Mettle - Tarnished Mettle (god-pve,pve,pvp) (pve,pvp)
+// Tarnished Mettle - Tarnished Mettle (god-pve,pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2218569744&perks=839105230,3142289711,3523296417,2173046394
 dimwishlist:item=2218569744&perks=839105230,3142289711,3523296417,1720528630
@@ -907,11 +907,11 @@ dimwishlist:item=2218569744&perks=839105230,3142289711,1906147653,2173046394
 dimwishlist:item=2218569744&perks=839105230,3142289711,1906147653,1720528630
 
 
-// The Steady Hand - The Steady Hand - Semigodroll (god-pvp) ()
+// The Steady Hand - The Steady Hand - Semigodroll (god-pvp)
 dimwishlist:item=2220884262&perks=1926090092,1968497646,706527188,957782887
 
 
-// The Steady Hand - The Steady Hand (pvp) (pvp)
+// The Steady Hand - The Steady Hand (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2220884262&perks=1926090091,1885400500,2450788523,4082225868
 dimwishlist:item=2220884262&perks=1926090091,1885400500,2450788523,957782887
@@ -939,7 +939,7 @@ dimwishlist:item=2220884262&perks=1926090092,1968497646,588594999,4082225868
 dimwishlist:item=2220884262&perks=1926090092,1968497646,588594999,957782887
 
 
-// Smite of Merain - Smite of Merain (pve,pvp,god-pve) (pve,pvp)
+// Smite of Merain - Smite of Merain (pve,pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,1183436451
@@ -947,12 +947,12 @@ dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,3824105627
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
 
 
-// Wilderflight - Wilderflight (pve,god-pve) (pve)
+// Wilderflight - Wilderflight (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2306182339&perks=1478423395,3032599245,3300816228,1546637391
 
 
-// Wilderflight - Wilderflight (pve) (pve)
+// Wilderflight - Wilderflight (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2306182339&perks=3525010810,3301904089,3300816228,1546637391
 dimwishlist:item=2306182339&perks=3525010810,3032599245,3300816228,1546637391
@@ -970,25 +970,25 @@ dimwishlist:item=2313726158&perks=839105230,1885400500,3619207468,460017080,1607
 dimwishlist:item=2313726158&perks=3619207468,460017080,1607056502
 
 
-// Igneous Hammer (Adept) (god-pvp)
+// Igneous Hammer (Adept)(god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,699525795,2988596335,905869860
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,699525795,2988596335,3244015567
 
 
-// Igneous Hammer (Adept) (pvp)
+// Igneous Hammer (Adept)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2314610827&perks=3619207468,699525795,2988596335,905869860
 dimwishlist:item=2314610827&perks=3619207468,699525795,2988596335,3244015567
 
 
-// Lodbrok-C - Lodbrok-C (pvp) (pvp)
+// Lodbrok-C - Lodbrok-C (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2328531378&perks=839105230,1885400500,1428297954,1015611457
 dimwishlist:item=2328531378&perks=839105230,1885400500,1359896290,1015611457
 
 
-// Lodbrok-C - Lodbrok-C (pve) (pve)
+// Lodbrok-C - Lodbrok-C (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2328531378&perks=202670084,1885400500,1354429876,365154968
 dimwishlist:item=2328531378&perks=202670084,1968497646,1354429876,365154968
@@ -996,14 +996,14 @@ dimwishlist:item=2328531378&perks=839105230,1885400500,1354429876,365154968
 dimwishlist:item=2328531378&perks=839105230,1968497646,1354429876,365154968
 
 
-// Prolonged Engagement - Prolonged Engagement (god-pve) ()
+// Prolonged Engagement - Prolonged Engagement (god-pve)
 dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,365154968,744217850,2302094943
 dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,365154968,744217850,38912240
 dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,365154968,3988215619,2302094943
 dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,365154968,3988215619,38912240
 
 
-// Prolonged Engagement - Prolonged Engagement (pve,pvp) (pve,pvp)
+// Prolonged Engagement - Prolonged Engagement (pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2349907931&perks=1482024992,1885400500,1820235745,365154968,744217850,2302094943
 dimwishlist:item=2349907931&perks=1482024992,1885400500,1820235745,365154968,744217850,38912240
@@ -1031,7 +1031,7 @@ dimwishlist:item=2349907931&perks=839105230,1561002382,1820235745,365154968,3988
 dimwishlist:item=2349907931&perks=839105230,1561002382,1820235745,365154968,3988215619,38912240
 
 
-// Prolonged Engagement - Prolonged Engagement (pve) (pve)
+// Prolonged Engagement - Prolonged Engagement (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2349907931&perks=4090651448,1885400500,1820235745,365154968,744217850,2302094943
 dimwishlist:item=2349907931&perks=4090651448,1885400500,1820235745,365154968,744217850,38912240
@@ -1083,11 +1083,11 @@ dimwishlist:item=2349907931&perks=839105230,1561002382,1820235745,4104185692,398
 dimwishlist:item=2349907931&perks=839105230,1561002382,1820235745,4104185692,3988215619,38912240
 
 
-// Igneous Hammer - Igneous Hammer (god-pvp) ()
+// Igneous Hammer - Igneous Hammer (god-pvp)
 dimwishlist:item=2351180975&perks=4090651448,1885400500,247725512,3425386926
 
 
-// Igneous Hammer - Igneous Hammer (pvp) (pvp)
+// Igneous Hammer - Igneous Hammer (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2351180975&perks=4090651448,1885400500,247725512,47981717
 dimwishlist:item=2351180975&perks=4090651448,1885400500,247725512,3425386926
@@ -1117,13 +1117,13 @@ dimwishlist:item=2465372924&perks=839105230,1885400500,3643424744,3891536761,930
 dimwishlist:item=2465372924&perks=3643424744,3891536761,930692523
 
 
-// Darkest Before - Darkest Before (pve) (pve)
+// Darkest Before - Darkest Before (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2481758391&perks=4090651448,1885400500,1820235745,3425386926
 dimwishlist:item=2481758391&perks=3250034553,1885400500,1820235745,3425386926
 
 
-// Darkest Before - Darkest Before (pvp) (pvp)
+// Darkest Before - Darkest Before (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,3108830275
 dimwishlist:item=2481758391&perks=4090651448,1885400500,3643424744,3425386926
@@ -1159,11 +1159,11 @@ dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,3108830275
 dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,3425386926
 
 
-// Igneous Hammer (Adept) - Igneous Hammer (Adept) (god-pvp) ()
+// Igneous Hammer (Adept)- Igneous Hammer (Adept)(god-pvp)
 dimwishlist:item=2527666306&perks=3250034553,1885400500,247725512,3425386926
 
 
-// Igneous Hammer (Adept) - Igneous Hammer (Adept) (pvp) (pvp)
+// Igneous Hammer (Adept)- Igneous Hammer (Adept)(pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,47981717
 dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,3425386926
@@ -1191,7 +1191,7 @@ dimwishlist:item=2527666306&perks=202670084,1561002382,2450788523,47981717
 dimwishlist:item=2527666306&perks=202670084,1561002382,2450788523,3425386926
 
 
-// No Reprieve - No Reprieve (pve,pvp,god-pve) (pve,pvp)
+// No Reprieve - No Reprieve (pve,pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2531963421&perks=1467527085,791862061,536173722,4082225868
 dimwishlist:item=2531963421&perks=1467527085,791862061,536173722,1161469972
@@ -1199,12 +1199,12 @@ dimwishlist:item=2531963421&perks=1467527085,791862061,691659142,4082225868
 dimwishlist:item=2531963421&perks=1467527085,791862061,691659142,1161469972
 
 
-// Matador 64 - Matador 64 (pvp,god-pvp,pve) (pvp,pve)
+// Matador 64 - Matador 64 (pvp,god-pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=2563012876&perks=1482024992,3142289711,4071163871,47981717
 
 
-// Compass Rose - Compass Rose (pve) (pve)
+// Compass Rose - Compass Rose (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2591111628&perks=4090651448,1087426260,3436462433,4293542123
 dimwishlist:item=2591111628&perks=4090651448,1087426260,3436462433,2610012052
@@ -1280,12 +1280,12 @@ dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,2360754333
 dimwishlist:item=2591111628&perks=1332244541,3142289711,706527188,1546637391
 
 
-// Jurassic Green - Jurassic Green (pve,pvp) (pve,pvp)
+// Jurassic Green - Jurassic Green (pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2603335652&perks=839105230,1885400500,1820235745,4293542123
 
 
-// Aisha's Embrace - Aisha's Embrace (pvp) (pvp)
+// Aisha's Embrace - Aisha's Embrace (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2638190703&perks=4090651448,1087426260,3400784728,699525795
 dimwishlist:item=2638190703&perks=4090651448,1087426260,3400784728,1354429876
@@ -1417,7 +1417,7 @@ dimwishlist:item=2638190703&perks=839105230,1968497646,1583705720,699525795
 dimwishlist:item=2638190703&perks=839105230,1968497646,1583705720,1354429876
 
 
-// Pure Poetry - Pure Poetry (pvp) (pvp)
+// Pure Poetry - Pure Poetry (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2671639706&perks=4090651448,1885400500,1428297954,699525795
 dimwishlist:item=2671639706&perks=4090651448,1885400500,1428297954,47981717
@@ -1465,11 +1465,11 @@ dimwishlist:item=2728851518&perks=839105230,2969185026,1645158859,2213355989,426
 dimwishlist:item=2728851518&perks=1645158859,2213355989,4264904777
 
 
-// Dire Promise - Dire Promise (god-pvp) ()
+// Dire Promise - Dire Promise (god-pvp)
 dimwishlist:item=2742838701&perks=1926090091,1885400500,47981717,2846385770
 
 
-// Dire Promise - Dire Promise (pvp) (pvp)
+// Dire Promise - Dire Promise (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2742838701&perks=1926090091,1561002382,3643424744,2846385770
 dimwishlist:item=2742838701&perks=1926090091,1561002382,3643424744,4082225868
@@ -1497,7 +1497,7 @@ dimwishlist:item=2742838701&perks=1926090092,1968497646,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090092,1968497646,47981717,4082225868
 
 
-// Firefright - Firefright (pve,pvp) (pve,pvp)
+// Firefright - Firefright (pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2778013407&perks=839105230,1885400500,494941759,3708227201
 dimwishlist:item=2778013407&perks=839105230,1885400500,494941759,781192741
@@ -1505,7 +1505,7 @@ dimwishlist:item=2778013407&perks=839105230,1885400500,4071163871,3708227201
 dimwishlist:item=2778013407&perks=839105230,1885400500,4071163871,781192741
 
 
-// Firefright - Firefright (pve) (pve)
+// Firefright - Firefright (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2778013407&perks=839105230,1885400500,848860060,1774574192
 dimwishlist:item=2778013407&perks=839105230,1885400500,848860060,777774560
@@ -1513,12 +1513,12 @@ dimwishlist:item=2778013407&perks=839105230,1885400500,1354429876,1774574192
 dimwishlist:item=2778013407&perks=839105230,1885400500,1354429876,777774560
 
 
-// Crown-Splitter - Crown-Splitter (pve,god-pve) (pve)
+// Crown-Splitter - Crown-Splitter (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 
 
-// Trust - Trust (pvp) (pvp)
+// Trust - Trust (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,2846385770
 dimwishlist:item=2850664015&perks=4090651448,106909392,247725512,2610012052
@@ -1666,42 +1666,42 @@ dimwishlist:item=2850664015&perks=839105230,3142289711,47981717,3038247973
 dimwishlist:item=2850664015&perks=839105230,3142289711,47981717,3425386926
 
 
-// Krait - Krait (pve,god-pve) (pve)
+// Krait - Krait (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=2852052802&perks=839105230,2420895100,1820235745,124408337
 
 
-// BrayTech Werewolf - BrayTech Werewolf (pve,pvp,god-pve) (pve,pvp)
+// BrayTech Werewolf - BrayTech Werewolf (pve,pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=2869466318&perks=839105230,1885400500,1359896290,1015611457
 
 
-// Crisis Inverted - Crisis Inverted (pvp,god-pvp,pve) (pvp,pve)
+// Crisis Inverted - Crisis Inverted (pvp,god-pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=2888266564&perks=839105230,1885400500,247725512,2846385770
 
 
-// Loaded Question (Adept) (god-pve)
+// Loaded Question (Adept)(god-pve)
 //notes: tags:god-pve
 dimwishlist:item=2914913838&perks=839105230,689005463,3643424744,2594592626,1281216113
 
 
-// Loaded Question (Adept) (pve)
+// Loaded Question (Adept)(pve)
 //notes: tags:pve
 dimwishlist:item=2914913838&perks=3643424744,2594592626,1281216113
 
 
-// Out of Bounds - Out of Bounds (pvp,pve,god-pvp) (pvp,pve)
+// Out of Bounds - Out of Bounds (pvp,pve,god-pvp)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=2988121501&perks=4090651448,1885400500,1359896290,2846385770
 dimwishlist:item=2988121501&perks=3250034553,1885400500,1359896290,2846385770
 
 
-// Unforgiven - Unforgiven (god-pve) ()
+// Unforgiven - Unforgiven (god-pve)
 dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,11612903
 
 
-// Unforgiven - Unforgiven (pve) (pve)
+// Unforgiven - Unforgiven (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3000847393&perks=4090651448,1087426260,3523296417,776531651
 dimwishlist:item=3000847393&perks=4090651448,1087426260,3523296417,2848615171
@@ -1801,7 +1801,7 @@ dimwishlist:item=3000847393&perks=839105230,1968497646,2779035018,2848615171
 dimwishlist:item=3000847393&perks=839105230,1968497646,2779035018,3425386926
 
 
-// Unforgiven - Unforgiven - My favorite roll (pve) (pve)
+// Unforgiven - Unforgiven - My favorite roll (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3000847393&perks=4090651448,1087426260,3523296417,2848615171
 dimwishlist:item=3000847393&perks=4090651448,1087426260,3523296417,3425386926
@@ -1853,7 +1853,7 @@ dimwishlist:item=3000847393&perks=839105230,1561002382,2779035018,2848615171
 dimwishlist:item=3000847393&perks=839105230,1561002382,2779035018,3425386926
 
 
-// Austringer - Austringer (pvp,pve) (pvp,pve)
+// Austringer - Austringer (pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=3055790362&perks=3250034553,1885400500,3719974635,2846385770
 dimwishlist:item=3055790362&perks=3250034553,1885400500,3719974635,509594246
@@ -1873,7 +1873,7 @@ dimwishlist:item=3103255595&perks=1820235745,4293542123,2250679103,905869860
 dimwishlist:item=3103255595&perks=1820235745,4293542123,2250679103,3244015567
 
 
-// Chain of Command - Chain of Command (pve) (pve)
+// Chain of Command - Chain of Command (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3105930175&perks=839105230,1561002382,11612903,3523296417
 
@@ -1890,12 +1890,12 @@ dimwishlist:item=3110377595&perks=2846385770,460017080,4091460919,2302094943
 dimwishlist:item=3110377595&perks=2846385770,460017080,4091460919,38912240
 
 
-// Liminal Vigil - Liminal Vigil (pve,pvp,god-pve,god-pvp) (pve,pvp)
+// Liminal Vigil - Liminal Vigil (pve,pvp,god-pve,god-pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=3138208275&perks=839105230,1885400500,124408337,3047969693
 
 
-// Liminal Vigil - Liminal Vigil (pvp,pve) (pvp,pve)
+// Liminal Vigil - Liminal Vigil (pvp,pve)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=3138208275&perks=4090651448,1885400500,691659142,3047969693
 dimwishlist:item=3138208275&perks=4090651448,1885400500,4071163871,3047969693
@@ -1917,7 +1917,7 @@ dimwishlist:item=3165547384&perks=951095735,960810156,2285636663
 dimwishlist:item=3165547384&perks=951095735,960810156,2240097604
 
 
-// The Immortal (Adept) (pvp)
+// The Immortal (Adept)(pvp)
 //notes: tags:pvp
 dimwishlist:item=3193598749&perks=2846385770,1015611457,2988596335,2302094943
 dimwishlist:item=3193598749&perks=2846385770,1015611457,2988596335,38912240
@@ -1957,7 +1957,7 @@ dimwishlist:item=3193598749&perks=1359896290,831391274,2120661319,2302094943
 dimwishlist:item=3193598749&perks=1359896290,831391274,2120661319,38912240
 
 
-// Defiance of Yasmin - Defiance of Yasmin (pve,pvp,god-pvp,god-pve) (pve,pvp)
+// Defiance of Yasmin - Defiance of Yasmin (pve,pvp,god-pvp,god-pve)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=3228096719&perks=1840239774,3142289711,4116820839,1370847713
 dimwishlist:item=3228096719&perks=1840239774,3142289711,4116820839,47981717
@@ -1965,7 +1965,7 @@ dimwishlist:item=3228096719&perks=1840239774,3142289711,957782887,1370847713
 dimwishlist:item=3228096719&perks=1840239774,3142289711,957782887,47981717
 
 
-// Vouchsafe - Vouchsafe (pve) (pve)
+// Vouchsafe - Vouchsafe (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3242168339&perks=247725512,2848615171
 dimwishlist:item=3242168339&perks=247725512,3038247973
@@ -1973,7 +1973,7 @@ dimwishlist:item=3242168339&perks=1354429876,2848615171
 dimwishlist:item=3242168339&perks=1354429876,3038247973
 
 
-// Aisha's Embrace (Adept) - Aisha's Embrace (Adept) (pvp) (pvp)
+// Aisha's Embrace (Adept)- Aisha's Embrace (Adept)(pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=3245493570&perks=4090651448,1087426260,1583705720,699525795
 dimwishlist:item=3245493570&perks=4090651448,1087426260,1583705720,1354429876
@@ -2213,11 +2213,11 @@ dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,126
 dimwishlist:item=3257091167&perks=3666208348,269888150,1618208178,3418165135,1260401931,2285636663
 
 
-// Posterity - Posterity (god-pve) ()
+// Posterity - Posterity (god-pve)
 dimwishlist:item=3281285075&perks=4090651448,3142289711,1523832109,3425386926
 
 
-// Posterity - Posterity (pve,pvp) (pve,pvp)
+// Posterity - Posterity (pve,pvp)(pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=3281285075&perks=4090651448,3142289711,247725512,3523296417
 dimwishlist:item=3281285075&perks=4090651448,3142289711,247725512,288411554
@@ -2281,21 +2281,21 @@ dimwishlist:item=3281285075&perks=3250034553,3142289711,2173046394,3425386926
 dimwishlist:item=3281285075&perks=3250034553,3142289711,2173046394,4104185692
 
 
-// Tarantula - Tarantula (god-pve) ()
+// Tarantula - Tarantula (god-pve)
 dimwishlist:item=3335343363&perks=839105230,2680121939,2779035018,2848615171
 
 
-// Tarantula - Tarantula (pve) (pve)
+// Tarantula - Tarantula (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3335343363&perks=202670084,689005463,2779035018,3425386926
 
 
-// Funnelweb - Funnelweb (pvp,god-pve) (pvp)
+// Funnelweb - Funnelweb (pvp,god-pve)(pvp)
 //notes: tags:pvp
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
 
 
-// Funnelweb - Funnelweb (pve) (pve)
+// Funnelweb - Funnelweb (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3341893443&perks=4090651448,106909392,1820235745,4104185692
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
@@ -2303,16 +2303,16 @@ dimwishlist:item=3341893443&perks=3250034553,106909392,1820235745,4104185692
 dimwishlist:item=3341893443&perks=3250034553,3142289711,1820235745,4104185692
 
 
-// Silicon Neuroma - Silicon Neuroma (pvp,pve,god-pvp) (pvp,pve)
+// Silicon Neuroma - Silicon Neuroma (pvp,pve,god-pvp)(pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=3355385170&perks=839105230,2420895100,957782887,47981717
 
 
-// Eternal Blazon - Eternal Blazon (god-pve) ()
+// Eternal Blazon - Eternal Blazon (god-pve)
 dimwishlist:item=3514096004&perks=194952923,1968497646,3643424744,1015611457
 
 
-// Eternal Blazon - Eternal Blazon (pve) (pve)
+// Eternal Blazon - Eternal Blazon (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3514096004&perks=194952923,1885400500,247725512,1015611457
 dimwishlist:item=3514096004&perks=194952923,1885400500,247725512,1683379515
@@ -2324,7 +2324,7 @@ dimwishlist:item=3514096004&perks=194952923,1561002382,3643424744,1015611457
 dimwishlist:item=3514096004&perks=194952923,1561002382,3643424744,1683379515
 
 
-// The Summoner (Adept) - The Summoner (Adept) (pvp) (pvp)
+// The Summoner (Adept)- The Summoner (Adept)(pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=3514144928&perks=1482024992,1885400500,3643424744,2846385770
 dimwishlist:item=3514144928&perks=1482024992,1885400500,3643424744,2848615171
@@ -2434,23 +2434,23 @@ dimwishlist:item=3583275737&perks=839105230,3142289711,3418782618,95528736,10501
 dimwishlist:item=3583275737&perks=3418782618,95528736,1050127423
 
 
-// First In, Last Out - First In, Last Out (pve,god-pve) (pve)
+// First In, Last Out - First In, Last Out (pve,god-pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3616586446&perks=1467527085,3142289711,3300816228,1546637391
 
 
-// Stormchaser - Stormchaser (god-pve,pve) (pve)
+// Stormchaser - Stormchaser (god-pve,pve)(pve)
 //notes: tags:pve
 dimwishlist:item=3652506829&perks=839105230,1687452232,247725512,1771339417
 dimwishlist:item=3652506829&perks=839105230,1687452232,2284787283,1771339417
 
 
-// Multimach CCX - Multimach CCX (god-pvp,pvp) (pvp)
+// Multimach CCX - Multimach CCX (god-pvp,pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457
 
 
-// Multimach CCX - Multimach CCX (pvp) (pvp)
+// Multimach CCX - Multimach CCX (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,591790007
 
@@ -2482,7 +2482,7 @@ dimwishlist:item=3871226707&perks=957782887,47981717,2250679103,905869860
 dimwishlist:item=3871226707&perks=957782887,47981717,2250679103,3244015567
 
 
-// Wendigo GL3 (Adept) (god-pvp)
+// Wendigo GL3 (Adept)(god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=3915197957&perks=951095735,2888557110,1281216113,2240097604
 dimwishlist:item=3915197957&perks=951095735,2888557110,1281216113,2285636663
@@ -2492,7 +2492,7 @@ dimwishlist:item=3915197957&perks=951095735,2888557110,2839173408,2240097604
 dimwishlist:item=3915197957&perks=951095735,2888557110,2839173408,2285636663
 
 
-// Wendigo GL3 (Adept) (god-pve)
+// Wendigo GL3 (Adept)(god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3915197957&perks=3300816228,3194351027,1281216113,2240097604
 dimwishlist:item=3915197957&perks=3300816228,3194351027,1281216113,2285636663
@@ -2512,12 +2512,12 @@ dimwishlist:item=3926811686&perks=839105230,3142289711,3017780555,243981275,4355
 dimwishlist:item=3926811686&perks=3017780555,243981275,43555494
 
 
-// Staccato-46 - Staccato-46 (god-pve) ()
+// Staccato-46 - Staccato-46 (god-pve)
 dimwishlist:item=4019668921&perks=839105230,3142289711,3400784728,4293542123
 dimwishlist:item=4019668921&perks=839105230,3142289711,3400784728,3038247973
 
 
-// Staccato-46 - Staccato-46 (pve) (pve)
+// Staccato-46 - Staccato-46 (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=4019668921&perks=4090651448,106909392,3400784728,4293542123
 dimwishlist:item=4019668921&perks=4090651448,106909392,3400784728,3038247973
@@ -2637,7 +2637,7 @@ dimwishlist:item=4039572196&perks=1428297954,831391274,2120661319,38912240
 dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,365154968
 
 
-// Seventh Seraph Carbine - Seventh Seraph Carbine (pve) (pve)
+// Seventh Seraph Carbine - Seventh Seraph Carbine (pve)(pve)
 //notes: tags:pve
 dimwishlist:item=4070357005&perks=3250034553,1140096971,1354429876,365154968
 dimwishlist:item=4070357005&perks=3250034553,1140096971,1523832109,365154968
@@ -2659,7 +2659,7 @@ dimwishlist:item=4070357005&perks=839105230,3142289711,1523832109,365154968
 dimwishlist:item=4070357005&perks=839105230,3142289711,4071163871,365154968
 
 
-// Seventh Seraph Carbine - Seventh Seraph Carbine (pvp) (pvp)
+// Seventh Seraph Carbine - Seventh Seraph Carbine (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=4070357005&perks=3250034553,1140096971,1359896290,2846385770
 dimwishlist:item=4070357005&perks=3250034553,1140096971,1359896290,588594999
@@ -2687,7 +2687,7 @@ dimwishlist:item=4070357005&perks=839105230,3142289711,1523832109,2846385770
 dimwishlist:item=4070357005&perks=839105230,3142289711,1523832109,588594999
 
 
-// Techeun Force - Techeun Force (god-pve) ()
+// Techeun Force - Techeun Force (god-pve)
 dimwishlist:item=4094657108&perks=1482024992,2969185026,1645158859,2846385770
 
 
@@ -2703,15 +2703,15 @@ dimwishlist:item=4114929480&perks=280464955,2213355989,2839173408,905869860
 dimwishlist:item=4114929480&perks=280464955,2213355989,2839173408,3244015567
 
 
-// 1000 Yard Stare - 1000 Yard Stare (god-pvp) ()
+// 1000 Yard Stare - 1000 Yard Stare (god-pvp)
 dimwishlist:item=4164201232&perks=839105230,3142289711,280464955,957782887
 
 
-// 1000 Yard Stare - 1000 Yard Stare (god-pvp) ()
+// 1000 Yard Stare - 1000 Yard Stare (god-pvp)
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887
 
 
-// 1000 Yard Stare - 1000 Yard Stare (pvp) (pvp)
+// 1000 Yard Stare - 1000 Yard Stare (pvp)(pvp)
 //notes: tags:pvp
 dimwishlist:item=4164201232&perks=202670084,3142289711,1428297954,588594999
 dimwishlist:item=4164201232&perks=202670084,3142289711,1428297954,957782887
@@ -2727,7 +2727,7 @@ dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,588594999
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887
 
 
-// Heritage - Heritage (god-pve) ()
+// Heritage - Heritage (god-pve)
 dimwishlist:item=4248569242&perks=4090651448,791862061,1523832109,469285294
 
 
