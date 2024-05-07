@@ -78,6 +78,16 @@ dimwishlist:item=177568179&perks=1359896290,365154968,2250679103,2302094943
 dimwishlist:item=177568179&perks=1359896290,365154968,2250679103,38912240
 
 
+// Hammerhead (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=211732170&perks=839105230,2420895100,3425386926,557221067,2489430594
+
+
+// Hammerhead (pve)
+//notes: tags:pve
+dimwishlist:item=211732170&perks=3425386926,557221067,2489430594
+
+
 // Eyasluna - Eyasluna (god-pvp,pvp,pve) (pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=235827225&perks=1926090091,1885400500,247725512,1015611457
@@ -90,14 +100,14 @@ dimwishlist:item=235827225&perks=1926090092,1561002382,247725512,1015611457
 dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,1015611457
 
 
-// Zaouli's Bane (Harrowed) (god-pve)
+// Falling Guillotine (god-pve)
 //notes: tags:god-pve
-dimwishlist:item=291092617&perks=839105230,3142289711,3038247973,4293542123,120721526
+dimwishlist:item=243425374&perks=436053704,52780822,4104185692,2077819806,2489430594
 
 
-// Zaouli's Bane (Harrowed) (pve)
+// Falling Guillotine (pve)
 //notes: tags:pve
-dimwishlist:item=291092617&perks=3038247973,4293542123,120721526
+dimwishlist:item=243425374&perks=4104185692,2077819806
 
 
 // The Title - The Title (god-pve,pve,pvp) (pve,pvp)
@@ -199,31 +209,6 @@ dimwishlist:item=507038823&perks=3250034553,1885400500,1359896290,2846385770
 dimwishlist:item=507038823&perks=3250034553,1885400500,2450788523,2846385770
 dimwishlist:item=507038823&perks=202670084,1885400500,1359896290,2846385770
 dimwishlist:item=507038823&perks=202670084,1885400500,2450788523,2846385770
-
-
-// The Mountaintop (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294,2489430594
-
-
-// The Mountaintop (pve,pvp)
-//notes: tags:pve,pvp
-dimwishlist:item=568611922&perks=3300816228,469285294,2489430594
-
-
-// Edge Transit (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=568611923&perks=1478423395,3301904089,968510818,3078487919,2489430594
-
-
-// Edge Transit (pve)
-//notes: tags:pve
-dimwishlist:item=568611923&perks=968510818,3078487919,2489430594
-
-
-// Edge Transit (pve)
-//notes: tags:pve
-dimwishlist:item=568611923&perks=3751912585,3078487919,2489430594
 
 
 // Scathelocke - Scathelocke (pve,god-pve,pvp) (pve,pvp)
@@ -386,26 +371,6 @@ dimwishlist:item=1046651176&perks=839105230,3142289711,2846385770,3038247973
 dimwishlist:item=1046651176&perks=839105230,3142289711,2846385770,47981717
 dimwishlist:item=1046651176&perks=839105230,3142289711,2450788523,3038247973
 dimwishlist:item=1046651176&perks=839105230,3142289711,2450788523,47981717
-
-
-// The Recluse (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=1050806815&perks=839105230,1885400500,776531651,2048641572,2489430594
-
-
-// The Recluse (pve)
-//notes: tags:pve
-dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594
-
-
-// The Recluse (pve)
-//notes: tags:pve
-dimwishlist:item=1050806815&perks=776531651,3081867624,2489430594
-
-
-// The Recluse (pve)
-//notes: tags:pve
-dimwishlist:item=1050806815&perks=1820235745,2109543898,2489430594
 
 
 // Forge's Pledge - Forge's Pledge (pvp,pve) (pvp,pve)
@@ -588,59 +553,6 @@ dimwishlist:item=1216319404&perks=839105230,3142289711,3038247973,3824105627,230
 dimwishlist:item=1216319404&perks=839105230,3142289711,3038247973,3824105627,38912240
 
 
-// Tusk of the Boar (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472,3989629871
-dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472,2120661319
-
-
-// Tusk of the Boar (pve)
-//notes: tags:pve
-dimwishlist:item=1218113510&perks=923806249,2396489472,3989629871
-dimwishlist:item=1218113510&perks=923806249,2396489472,2120661319
-
-
-// Tusk of the Boar (pve)
-//notes: tags:pve
-dimwishlist:item=1218113510&perks=968510818,2396489472,3989629871
-dimwishlist:item=1218113510&perks=968510818,2396489472,2120661319
-
-
-// The Summoner (Adept) (god-pvp)
-//notes: tags:god-pvp
-dimwishlist:item=1292594730&perks=839105230,1885400500,2387244414,365154968,2988596335
-dimwishlist:item=1292594730&perks=839105230,1885400500,2387244414,365154968,4091460919
-dimwishlist:item=1292594730&perks=839105230,1885400500,2387244414,365154968,1050127423
-
-
-// The Summoner (Adept) (pvp)
-//notes: tags:pvp
-dimwishlist:item=1292594730&perks=2387244414,365154968,2988596335
-dimwishlist:item=1292594730&perks=2387244414,365154968,4091460919
-dimwishlist:item=1292594730&perks=2387244414,365154968,1050127423
-
-
-// The Summoner (Adept) (pve)
-//notes: tags:pve
-dimwishlist:item=1292594730&perks=3017780555,4293542123,2988596335
-dimwishlist:item=1292594730&perks=3017780555,4293542123,4091460919
-dimwishlist:item=1292594730&perks=3017780555,4293542123,1050127423
-
-
-// The Summoner (Adept) (pvp)
-//notes: tags:pvp
-dimwishlist:item=1292594730&perks=1359896290,365154968,2988596335
-dimwishlist:item=1292594730&perks=1359896290,365154968,4091460919
-dimwishlist:item=1292594730&perks=1359896290,365154968,1050127423
-
-
-// The Summoner (Adept) (pvp)
-//notes: tags:pvp
-dimwishlist:item=1292594730&perks=1428297954,365154968,2988596335
-dimwishlist:item=1292594730&perks=1428297954,365154968,4091460919
-dimwishlist:item=1292594730&perks=1428297954,365154968,1050127423
-
-
 // Brigand's Law - Brigand's Law (pve,god-pve,pvp) (pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=1298815317&perks=1467527085,3142289711,2779035018,2173046394
@@ -817,6 +729,26 @@ dimwishlist:item=1788603939&perks=839105230,1885400500,1820235745,4104185692
 dimwishlist:item=1796949035&perks=436053704,52780822,1749209109,2396489472
 
 
+// Falling Guillotine (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1815105249&perks=436053704,52780822,4104185692,2077819806,2489430594
+
+
+// Falling Guillotine (pve)
+//notes: tags:pve
+dimwishlist:item=1815105249&perks=4104185692,2077819806,2489430594
+
+
+// Falling Guillotine (pve)
+//notes: tags:pve
+dimwishlist:item=1815105249&perks=1749209109,3913600130,2489430594
+dimwishlist:item=1815105249&perks=1749209109,2077819806,2489430594
+dimwishlist:item=1815105249&perks=4104185692,3913600130,2489430594
+dimwishlist:item=1815105249&perks=4104185692,2077819806,2489430594
+dimwishlist:item=1815105249&perks=1546637391,3913600130,2489430594
+dimwishlist:item=1815105249&perks=1546637391,2077819806,2489430594
+
+
 // Nature of the Beast - Nature of the Beast (god-pvp) ()
 dimwishlist:item=1835747805&perks=1926090095,3142289711,957782887,2846385770
 
@@ -867,22 +799,6 @@ dimwishlist:item=1856262127&perks=839105230,1885400500,2779035018,124408337
 // Something New - Something New (pve) (pve)
 //notes: tags:pve
 dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,3523296417
-
-
-// Hammerhead (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067,2489430594
-
-
-// Hammerhead (pve,pvp)
-//notes: tags:pve,pvp
-dimwishlist:item=1896309757&perks=3425386926,557221067,2489430594
-
-
-// Hammerhead (pve)
-//notes: tags:pve
-dimwishlist:item=1896309757&perks=3418782618,365154968,2489430594
-dimwishlist:item=1896309757&perks=968510818,365154968,2489430594
 
 
 // The Summoner - The Summoner (god-pvp,pvp) (pvp)
@@ -1007,7 +923,7 @@ dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,2675184851
 
 // Lethal Abundance (god-pve,god-pvp)
 //notes: tags:god-pve,god-pvp
-dimwishlist:item=2189073092&perks=839105230,1885400500,923806249,365154968,3989629871
+dimwishlist:item=2189073092&perks=3661387068,1885400500,923806249,365154968,3989629871
 
 
 // Lethal Abundance (pve,pvp)
@@ -1069,6 +985,17 @@ dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,1183436451
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,3824105627
 dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451
+
+
+// Edge Transit (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2228325504&perks=1478423395,3301904089,968510818,3078487919,2489430594
+
+
+// Edge Transit (pve)
+//notes: tags:pve
+dimwishlist:item=2228325504&perks=968510818,3078487919,2489430594
+dimwishlist:item=2228325504&perks=3751912585,3078487919,2489430594
 
 
 // Wilderflight - Wilderflight (pve,god-pve) (pve)
@@ -1231,25 +1158,14 @@ dimwishlist:item=2351180975&perks=3250034553,1561002382,2450788523,47981717
 dimwishlist:item=2351180975&perks=3250034553,1561002382,2450788523,3425386926
 
 
-// Blast Furnace (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=2372514508&perks=839105230,3142289711,3891536761,3824105627,2489430594
+// Elsie's Rifle (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080,2489430594
 
 
-// Blast Furnace (pvp)
+// Elsie's Rifle (pvp)
 //notes: tags:pvp
-dimwishlist:item=2372514508&perks=460017080,2109543898,2489430594
-
-
-// Blast Furnace (pvp)
-//notes: tags:pvp
-dimwishlist:item=2372514508&perks=460017080,3425386926,2489430594
-dimwishlist:item=2372514508&perks=460017080,1015611457,2489430594
-
-
-// Blast Furnace (pve)
-//notes: tags:pve
-dimwishlist:item=2372514508&perks=3891536761,2109543898,2489430594
+dimwishlist:item=2372514509&perks=2387244414,460017080,2489430594
 
 
 // Tigerspite (god-pve,god-pvp)
@@ -1304,6 +1220,24 @@ dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,3108830275
 dimwishlist:item=2481758391&perks=839105230,1561002382,706527188,3425386926
 
 
+// Midnight Coup (god-pve,god-pvp)
+//notes: tags:god-pve,god-pvp
+dimwishlist:item=2499720827&perks=839105230,3142289711,3038247973,3891536761,2489430594
+
+
+// Midnight Coup (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2499720827&perks=3038247973,3891536761,2489430594
+
+
+// Midnight Coup (pve)
+//notes: tags:pve
+dimwishlist:item=2499720827&perks=3824105627,3891536761
+dimwishlist:item=2499720827&perks=3824105627,2109543898
+dimwishlist:item=2499720827&perks=3038247973,3891536761
+dimwishlist:item=2499720827&perks=3038247973,2109543898
+
+
 // Igneous Hammer (Adept) - Igneous Hammer (Adept) (god-pvp) ()
 dimwishlist:item=2527666306&perks=3250034553,1885400500,247725512,3425386926
 
@@ -1342,6 +1276,21 @@ dimwishlist:item=2531963421&perks=1467527085,791862061,536173722,4082225868
 dimwishlist:item=2531963421&perks=1467527085,791862061,536173722,1161469972
 dimwishlist:item=2531963421&perks=1467527085,791862061,691659142,4082225868
 dimwishlist:item=2531963421&perks=1467527085,791862061,691659142,1161469972
+
+
+// Blast Furnace (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2533990645&perks=839105230,3142289711,3891536761,3824105627,2489430594
+
+
+// Blast Furnace (pvp)
+//notes: tags:pvp
+dimwishlist:item=2533990645&perks=2387244414,1015611457,2489430594
+dimwishlist:item=2533990645&perks=2387244414,2109543898,2489430594
+dimwishlist:item=2533990645&perks=460017080,1015611457,2489430594
+dimwishlist:item=2533990645&perks=460017080,2109543898,2489430594
+dimwishlist:item=2533990645&perks=3619207468,1015611457,2489430594
+dimwishlist:item=2533990645&perks=3619207468,2109543898,2489430594
 
 
 // Matador 64 - Matador 64 (pvp,god-pvp,pve) (pvp,pve)
@@ -1640,46 +1589,6 @@ dimwishlist:item=2742838701&perks=1926090092,1968497646,3643424744,2846385770
 dimwishlist:item=2742838701&perks=1926090092,1968497646,3643424744,4082225868
 dimwishlist:item=2742838701&perks=1926090092,1968497646,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090092,1968497646,47981717,4082225868
-
-
-// Midnight Coup (god-pve,god-pvp)
-//notes: tags:god-pve,god-pvp
-dimwishlist:item=2763843898&perks=839105230,3142289711,3038247973,3891536761,2489430594
-
-
-// Midnight Coup (pve,pvp)
-//notes: tags:pve,pvp
-dimwishlist:item=2763843898&perks=3038247973,3891536761,2489430594
-
-
-// Midnight Coup (pve)
-//notes: tags:pve
-dimwishlist:item=2763843898&perks=3038247973,2109543898,2489430594
-
-
-// Luna's Howl (god-pvp,god-pve)
-//notes: tags:god-pvp,god-pve
-dimwishlist:item=2763843899&perks=4090651448,1885400500,3017780555,4293542123,2489430594
-
-
-// Luna's Howl (pvp)
-//notes: tags:pvp
-dimwishlist:item=2763843899&perks=3161816588,2720533289,2489430594
-
-
-// Luna's Howl (pve,pvp)
-//notes: tags:pve,pvp
-dimwishlist:item=2763843899&perks=3017780555,4293542123,2489430594
-
-
-// Luna's Howl (pvp)
-//notes: tags:pvp
-dimwishlist:item=2763843899&perks=3161816588,2720533289,2489430594
-
-
-// Luna's Howl (pve,pvp)
-//notes: tags:pve,pvp
-dimwishlist:item=2763843899&perks=3017780555,2720533289,2489430594
 
 
 // Firefright - Firefright (pve,pvp) (pve,pvp)
@@ -2044,6 +1953,24 @@ dimwishlist:item=3055790362&perks=3250034553,1885400500,3719974635,2846385770
 dimwishlist:item=3055790362&perks=3250034553,1885400500,3719974635,509594246
 dimwishlist:item=3055790362&perks=3250034553,1885400500,699525795,2846385770
 dimwishlist:item=3055790362&perks=3250034553,1885400500,699525795,509594246
+
+
+// The Recluse (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3098328572&perks=839105230,1885400500,776531651,2048641572,2489430594
+
+
+// The Recluse (pve)
+//notes: tags:pve
+dimwishlist:item=3098328572&perks=776531651,2048641572,2489430594
+
+
+// The Recluse (pve)
+//notes: tags:pve
+dimwishlist:item=3098328572&perks=776531651,3081867624,2489430594
+dimwishlist:item=3098328572&perks=776531651,2048641572,2489430594
+dimwishlist:item=3098328572&perks=1820235745,3081867624,2489430594
+dimwishlist:item=3098328572&perks=1820235745,2048641572,2489430594
 
 
 // Jurassic Green (god-pve,god-pvp)
@@ -2493,31 +2420,6 @@ dimwishlist:item=3341893443&perks=3250034553,3142289711,1820235745,4104185692
 dimwishlist:item=3355385170&perks=839105230,2420895100,957782887,47981717
 
 
-// Indebted Kindness (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,2173046394,220689851
-
-
-// Indebted Kindness (pve)
-//notes: tags:pve
-dimwishlist:item=3381450498&perks=2859149211,2173046394,220689851
-
-
-// Prosecutor (god-pvp)
-//notes: tags:god-pvp
-dimwishlist:item=3483591058&perks=839105230,1885400500,2387244414,365154968,4129855581
-
-
-// Prosecutor (pvp)
-//notes: tags:pvp
-dimwishlist:item=3483591058&perks=3619207468,365154968,4129855581
-
-
-// Prosecutor (pve)
-//notes: tags:pve
-dimwishlist:item=3483591058&perks=2848615171,2173046394
-
-
 // Eternal Blazon - Eternal Blazon (god-pve) ()
 dimwishlist:item=3514096004&perks=194952923,1968497646,3643424744,1015611457
 
@@ -2678,6 +2580,40 @@ dimwishlist:item=3723679465&perks=1168162263,2173046394,930692523
 // Waking Vigil (pvp)
 //notes: tags:pvp
 dimwishlist:item=3723679465&perks=247725512,47981717
+
+
+// Luna's Howl (god-pve,god-pvp)
+//notes: tags:god-pve,god-pvp
+dimwishlist:item=3757612024&perks=4090651448,1885400500,3017780555,4293542123,2489430594
+
+
+// Luna's Howl (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3757612024&perks=4090651448,1885400500,3161816588,2720533289,2489430594
+
+
+// Luna's Howl (pvp)
+//notes: tags:pvp
+dimwishlist:item=3757612024&perks=3161816588,2720533289,2489430594
+
+
+// Luna's Howl (pve)
+//notes: tags:pve
+dimwishlist:item=3757612024&perks=3017780555,4293542123,2489430594
+dimwishlist:item=3757612024&perks=3017780555,2720533289,2489430594
+
+
+// Elsie's Rifle (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3851176026&perks=839105230,1885400500,2387244414,460017080,2489430594
+
+
+// Elsie's Rifle (pvp)
+//notes: tags:pvp
+dimwishlist:item=3851176026&perks=2387244414,460017080,2489430594
+dimwishlist:item=3851176026&perks=2387244414,2109543898,2489430594
+dimwishlist:item=3851176026&perks=3619207468,460017080,2489430594
+dimwishlist:item=3851176026&perks=3619207468,2109543898,2489430594
 
 
 // Mechabre (god-pve,god-pvp)
@@ -2843,6 +2779,16 @@ dimwishlist:item=4039572196&perks=1428297954,831391274,2120661319,2302094943
 dimwishlist:item=4039572196&perks=1428297954,831391274,2120661319,38912240
 
 
+// The Mountaintop (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294,2489430594
+
+
+// The Mountaintop (pve)
+//notes: tags:pve
+dimwishlist:item=4043921923&perks=3300816228,469285294,2489430594
+
+
 // Seventh Seraph Carbine - Seventh Seraph Carbine (god-pve) ()
 dimwishlist:item=4070357005&perks=839105230,1140096971,1523832109,365154968
 
@@ -2935,21 +2881,6 @@ dimwishlist:item=4164201232&perks=839105230,3142289711,280464955,588594999
 dimwishlist:item=4164201232&perks=839105230,3142289711,280464955,957782887
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,588594999
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887
-
-
-// Marcato-45 (god-pve)
-//notes: tags:god-pve
-dimwishlist:item=4233375372&perks=839105230,106909392,923806249,831391274,4008116374
-
-
-// Marcato-45 (pve)
-//notes: tags:pve
-dimwishlist:item=4233375372&perks=923806249,831391274,4008116374
-
-
-// Marcato-45 (pve)
-//notes: tags:pve
-dimwishlist:item=4233375372&perks=3523296417,831391274,4008116374
 
 
 // Heritage - Heritage (god-pve) ()
