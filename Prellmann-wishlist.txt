@@ -428,6 +428,22 @@ dimwishlist:item=1046651176&perks=839105230,3142289711,2450788523,3038247973
 dimwishlist:item=1046651176&perks=839105230,3142289711,2450788523,47981717
 
 
+// The Recluse (pve)
+//notes: tags:pve
+dimwishlist:item=1050806815&perks=776531651,2048641572,2489430594
+
+
+// The Recluse (pve)
+//notes: tags:pve
+dimwishlist:item=1050806815&perks=2779035018,3081867624,2489430594
+
+
+// The Recluse (pve)
+//notes: tags:pve
+dimwishlist:item=1050806815&perks=776531651,2109543898,2489430594
+dimwishlist:item=1050806815&perks=776531651,3081867624,2489430594
+
+
 // Forge's Pledge - Forge's Pledge (pvp,pve) (pvp,pve)
 //notes: tags:pvp,pve
 dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926
