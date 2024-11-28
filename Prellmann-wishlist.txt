@@ -110,6 +110,11 @@ dimwishlist:item=243425374&perks=436053704,52780822,4104185692,2077819806,248943
 dimwishlist:item=243425374&perks=4104185692,2077819806
 
 
+// Zaouli's Bane (Harrowed) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=291092617&perks=3038247973,4293542123,120721526
+
+
 // The Title - The Title (god-pve,pve,pvp) (pve,pvp)
 //notes: tags:pve,pvp
 dimwishlist:item=294129361&perks=4090651448,1885400500,1359896290,4082225868,1702976605,905869860
@@ -335,9 +340,9 @@ dimwishlist:item=871900124&perks=1332244541,791862061,776531651,2679249093,93069
 dimwishlist:item=871900124&perks=706527188,2679249093,930692523
 
 
-// Rose - Rose (god-pvp,pvp,pve) (pvp,pve)
-//notes: tags:pvp,pve
-dimwishlist:item=882778888&perks=3250034553,3142289711,3161816588,2846385770
+// Rose (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=882778888&perks=3161816588,3038247973,3326204863
 
 
 // Aurvandil FR6 - Aurvandil FR6 (god-pve) ()
@@ -2287,6 +2292,12 @@ dimwishlist:item=3193598749&perks=1359896290,831391274,4091460919,2302094943
 dimwishlist:item=3193598749&perks=1359896290,831391274,4091460919,38912240
 dimwishlist:item=3193598749&perks=1359896290,831391274,2120661319,2302094943
 dimwishlist:item=3193598749&perks=1359896290,831391274,2120661319,38912240
+
+
+// Multimach CCX (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3211624072&perks=243981275,3891536761,3989629871
+dimwishlist:item=3211624072&perks=243981275,3891536761,2120661319
 
 
 // Defiance of Yasmin - Defiance of Yasmin (pve,pvp,god-pvp,god-pve) (pve,pvp)
